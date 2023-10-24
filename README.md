@@ -11,9 +11,9 @@ Agradeço pela sua visita!
  - 💻 Algumas habilidades abaixo:
 
 <div style = "display: inline">
-  <img widht='50' height ='50' src="http://www.w3.org/2000/svg/>
-  <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/base-de-dados_4248443?term=sql&page=1&position=6&origin=search&related_id=4248443/>
-  <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/html-5_174854?term=html&page=1&position=1&origin=search&related_id=174854/>
-  <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190/>
-  <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222/>
-  <img widht='50' height ='50' src=https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png/>
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
