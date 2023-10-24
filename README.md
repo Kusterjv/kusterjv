@@ -19,4 +19,5 @@ Agradeço pela sua visita!
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 ![LinkedIn](https://www.linkedin.com/in/joão-vitor-küster-127b67235/)
+
 ![Instagram](https://www.instagram.com/kusterjv/)
