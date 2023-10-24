@@ -11,7 +11,7 @@ Agradeço pela sua visita!
  - 💻 Algumas habilidades abaixo:
 
 <div style = "display: inline">
-  <img widht='50' height ='50' src=<svg xmlns="http://www.w3.org/2000/svg/>
+  <img widht='50' height ='50' src="http://www.w3.org/2000/svg/>
   <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/base-de-dados_4248443?term=sql&page=1&position=6&origin=search&related_id=4248443/>
   <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/html-5_174854?term=html&page=1&position=1&origin=search&related_id=174854/>
   <img widht='50' height ='50' src=https://www.flaticon.com/br/icone-gratis/css-3_732190?term=css&page=1&position=1&origin=search&related_id=732190/>
