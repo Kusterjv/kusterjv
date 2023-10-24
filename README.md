@@ -6,7 +6,7 @@ Na empresa realizo algumas tarefas diárias, dou suporte aos colaboradores e dou
 
 Agradeço pela sua visita!
 
- - 🖥️ Assistente de TI na [Gestora Contabilidade] (https://www.gestoracontabilidade.com.br)
+ - 🖥️ Assistente de TI na [Gestora Contabilidade](https://www.gestoracontabilidade.com.br)
  - 🏀 Gosto de assistir um Basquete
  - 💻 Algumas habilidades abaixo:
 
