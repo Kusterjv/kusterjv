@@ -18,4 +18,4 @@ Agradeço pela sua visita!
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-![https://www.linkedin.com/in/joão-vitor-küster-127b67235/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/joão-vitor-küster-127b67235/)
