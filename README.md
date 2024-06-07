@@ -1,6 +1,6 @@
 ### João Vitor na área! 👋
 
-Sou um intusiasta da tecnologia e gosto de aprender coisas novas, sempre! Estou cursando a faculdade de Engenharia de Software, mas meu desejo é trabalhar como Analista de Dados. Atualmente trabalho como Assistente de TI na Gestora Contabilidade em Itajaí-SC.
+Sou um intusiasta da tecnologia e gosto de aprender coisas novas, sempre! Estou cursando a faculdade de Engenharia de Software, mas meu desejo é trabalhar como Analista de Dados. Atualmente trabalho como Analista de Business Intelligence no Clube Candeias em Itajaí-SC.
 
 Na empresa realizo algumas tarefas diárias, dou suporte aos colaboradores e dou um auxílio na parte do desenvolvimente a nossa equipe de Tecnologia e Inovação.
 
