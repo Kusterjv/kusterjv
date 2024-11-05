@@ -6,7 +6,7 @@ Na empresa realizo algumas tarefas diárias, dou suporte aos colaboradores e dou
 
 Agradeço pela sua visita!
 
- - 🖥️ Analista de Sistema na [MM Softwares](https://www.mmsoftwares.com.br/)
+ - 🖥️ Analista de Business Intelligence na [Clube Candeias]([https://www.mmsoftwares.com.br/](https://www.clubecandeias.com/)](https://www.clubecandeias.com/))
  - 🏀 Gosto de assistir um Basquete
  - 💻 Algumas habilidades abaixo:
 
