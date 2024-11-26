@@ -7,8 +7,7 @@ Na empresa realizo algumas tarefas diárias, dou suporte aos colaboradores e dou
 Agradeço pela sua visita!
 
  - 🖥️ Analista de Business Intelligence no [Clube Candeias](https://www.clubecandeias.com/)
- - 🏀 Gosto de assistir um Basquete
- - 💻 Algumas habilidades abaixo:
+ - 💻 Alguns conhecimentos que possuo abaixo:
 
 <div style = "display: inline">
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
