@@ -1,14 +1,14 @@
 ### João Vitor na área! 👋
 
-Sou um intusiasta da tecnologia e gosto de aprender coisas novas, sempre! Estou cursando a faculdade de Engenharia de Software, mas meu desejo é trabalhar como Analista de Dados. Atualmente trabalho como Analista de Business Intelligence no Clube Candeias em Itajaí-SC.
+Sou um intusiasta da tecnologia e gosto de aprender coisas novas, sempre! Estou cursando a faculdade de Engenharia de Software, focando na pós em Ciência de dados. Atualmente trabalho como Analista de Business Intelligence no Clube Candeias em Itajaí-SC, onde está sendo uma experiência incrível para a minha trajetória profissional.
 
-Na empresa realizo algumas tarefas diárias, dou suporte aos colaboradores e dou um auxílio na parte do desenvolvimente a nossa equipe de Tecnologia e Inovação.
+Em breve novidades em meu repositório com novos projetos a caminho! 😄
 
-Agradeço pela sua visita!
+Agradeço pela sua visita! 
 
  - 🖥️ Analista de Business Intelligence no [Clube Candeias](https://www.clubecandeias.com/)
- - 💻 Alguns conhecimentos que possuo abaixo:
-
+ 
+ - Alguns conhecimentos que possuo abaixo:
 <div style = "display: inline">
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img widht='50' height ='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
