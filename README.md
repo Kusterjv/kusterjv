@@ -80,9 +80,17 @@ Toda a estrutura do banco em código: tabelas, views, procedures, functions, tri
 
 | Projeto | O que faz | Ferramentas |
 |---|---|---|
-| [Pipeline de dados (ETL)](https://github.com/Kusterjv/Pipeline_dados_curso_alura) | Unifica os dados de duas empresas após uma fusão: extrai arquivos JSON e CSV, trata e carrega tudo numa base única | Python, Jupyter, WSL |
+| [Pipeline de dados (ETL)](https://github.com/Kusterjv/pipeline-etl-fusao-empresas) | Unifica os dados de duas empresas após uma fusão: extrai arquivos JSON e CSV, trata e carrega tudo numa base única | Python, Jupyter, WSL |
 | [Dashboards em Power BI](https://github.com/Kusterjv/dashboards-powerbi) | Painéis de visualização de dados feitos na formação da Data Science Academy | Power BI |
 | [Projetos em Python](https://github.com/Kusterjv/analises-python) | Notebooks e scripts de análise e ciência de dados | Python, Jupyter |
+
+## 📊 Atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img src="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-green-animate.svg" alt="Quadro 3D das minhas contribuições no GitHub" />
+</picture>
 
 ## 📫 Contato
 
