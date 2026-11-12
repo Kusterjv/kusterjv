@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o João Vitor Küster 👋</h1>
+<h1 align="left">Olá, me chamo João Vitor Küster 👋</h1>
 
 ### Dados · Engenharia de Dados · Desenvolvimento Full Stack · Itajaí, SC
 
