@@ -1,43 +1,80 @@
 <h1 align="left">Olá, eu sou o João Vitor Küster 👋</h1>
 
-### Dados · Engenharia de Dados · BI · Itajaí, SC
+### Dados · Engenharia de Dados · Desenvolvimento Full Stack · Itajaí, SC
 
 - 📊 Trabalho com dados e engenharia de dados: extração automatizada, integração de APIs, bancos de dados e BI
+- 💻 Hoje também desenvolvo aplicações web completas para visualização de dados, do banco ao front-end
 - 🎓 Estudante de Engenharia de Software na UniCesumar
 - 🤖 Uso IA no dia a dia de desenvolvimento, com agentes no Claude Code
 
 ## 🛠️ Ferramentas
 
-**Linguagens e bancos**
+**Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+
+**Back-end e dados**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**Engenharia de dados e automação**
+**Front-end**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Qualidade e DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**BI e IA**
+**BI, design e IA**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0F7C6C?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 
-## 🚀 O que venho construindo
+## 🚧 Projetos em desenvolvimento
 
-> Projetos desenvolvidos profissionalmente, em repositórios privados. Aqui estão só as tecnologias e o que cada um faz.
+> Projetos profissionais em repositórios privados. Aqui estão só o que cada um faz, as tecnologias e em que fase está.
 
-- **Automação de extração de dados (web scraping):** pipeline em Python com Playwright que acessa um sistema web, consulta os dados em janelas de período, trata as informações e faz upsert no PostgreSQL. Roda em Docker e tem testes com pytest.
-- **Integração com APIs REST:** extração de dados do Lark Base com autenticação OAuth (user access token), paginação e renovação de token, prototipada no Postman.
-- **Banco de dados:** criação de usuários e perfis de acesso no PostgreSQL, com privilégio mínimo por função.
-- **Tratamento e tradução de dados:** limpeza, deduplicação e tradução de campos em idioma estrangeiro com dicionário, cache e IA só para o que for novo.
-- **IA aplicada a dados:** agentes no Claude Code para engenharia de dados e para desenvolvimento em Power BI (modelagem, DAX e visuais).
+### 📈 Plataforma web de visualização de dados
+`🟡 Em desenvolvimento` · FastAPI · SQLAlchemy · Alembic · PostgreSQL · React · TypeScript · Vite · Tailwind CSS · GitHub Actions
+
+Sistema web interno que reúne os dashboards da operação num só lugar, com controle de quem acessa cada um. Monólito modular, com back-end em camadas (domínio, casos de uso, infraestrutura e API).
+
+- ✅ **Pronto:** login com sessão segura, bloqueio após tentativas erradas e recuperação de senha por e-mail; gestão de usuários e de acesso por workspace; log de acessos; tema claro e escuro; interface bilíngue (i18n)
+- ✅ **Qualidade:** CI no GitHub Actions com lint (Ruff e ESLint), checagem de tipos (mypy e TypeScript) e testes automatizados (pytest e Vitest); design system criado no Figma
+- 🔜 **Próximas etapas:** pipeline de dados para o banco analítico, API de métricas com filtros e os primeiros dashboards de acompanhamento de pedidos, num roadmap de 8 sprints
+
+### 🤖 Automação de extração de dados (web scraping)
+`🟢 Funcional` · Python · Playwright · PostgreSQL · Docker · pytest
+
+Extrai dados de um sistema web que não tem API para consulta em massa. Faz login uma única vez, percorre as telas em três etapas encadeadas e grava tudo direto no PostgreSQL.
+
+- Consulta em janelas de período e lê todas as páginas da grade
+- Tentativas automáticas, com novo login se a sessão cair, sem derrubar a fila inteira
+- Gravação idempotente (upsert): roda quantas vezes precisar sem duplicar dados
+- Integração com a API do Lark Base, com autenticação OAuth
+
+### 🗄️ Versionamento do banco de dados
+`🔄 Contínuo` · PostgreSQL · SQL · Git
+
+Toda a estrutura do banco em código: tabelas, views, procedures, functions, triggers, migrações e permissões de acesso. Cada mudança tem histórico e revisão no Git, os scripts podem ser reexecutados com segurança e tudo é testado em homologação antes de ir para produção.
 
 ## 📂 Projetos públicos
 
