@@ -84,14 +84,6 @@ Toda a estrutura do banco em código: tabelas, views, procedures, functions, tri
 | [Dashboards em Power BI](https://github.com/Kusterjv/dashboards-powerbi) | Painéis de visualização de dados feitos na formação da Data Science Academy | Power BI |
 | [Projetos em Python](https://github.com/Kusterjv/analises-python) | Notebooks e scripts de análise e ciência de dados | Python, Jupyter |
 
-## 📊 Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-night-green.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img src="https://raw.githubusercontent.com/Kusterjv/kusterjv/main/profile-3d-contrib/profile-green-animate.svg" alt="Quadro 3D das minhas contribuições no GitHub" />
-</picture>
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-k%C3%BCster-127b67235)
